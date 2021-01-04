@@ -38,6 +38,10 @@ bullet:
   osx:
     homebrew:
       packages: [bullet]
+bullet-extras:
+  osx:
+    homebrew:
+      packages: [bullet]
 bzip2:
   osx:
     homebrew:
@@ -71,6 +75,10 @@ curl:
     homebrew:
       packages: []
 cython:
+  osx:
+    homebrew:
+      packages: [cython]
+cython3:
   osx:
     homebrew:
       packages: [cython]
