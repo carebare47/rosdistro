@@ -3919,6 +3919,10 @@ libqt5-serialport:
   freebsd: [qt5-serialport]
   gentoo: ['dev-qt/qtserialport:5']
   ubuntu: [libqt5serialport5]
+libqt5-serialport-dev:
+  debian: [libqt5serialport5-dev]
+  fedora: [qt5-qtserialport-devel]
+  ubuntu: [libqt5serialport5-dev]
 libqt5-sql:
   arch: [qt5-base]
   debian:
